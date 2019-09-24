@@ -6,7 +6,5 @@
 - 	No sé
 -  Tampoco sé
 
-
-![](Screen1.png)
-
-![](Screen2.png)
+<img src="Screen1.png" alt="drawing" width="200"/>
+<img src="Screen2.png" alt="drawing" width="165"/>
