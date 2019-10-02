@@ -12,10 +12,7 @@ import com.example.trazabilidad2.Documentos;
 import com.example.trazabilidad2.Perfil;
 import com.example.trazabilidad2.R;
 
-/**
- * A [FragmentPagerAdapter] that returns a fragment corresponding to
- * one of the sections/tabs/pages.
- */
+
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
     @StringRes

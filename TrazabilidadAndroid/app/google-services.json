@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336525635495",
+    "firebase_url": "https://trazabilidad-896ba.firebaseio.com",
+    "project_id": "trazabilidad-896ba",
+    "storage_bucket": "trazabilidad-896ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336525635495:android:5ff69b8f6ec8994f7ed082",
+        "android_client_info": {
+          "package_name": "com.example.trazabilidad2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336525635495-mbcs2kb7httdj4uoiaer270d7oaasjs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAbFU0zn9Hu0yH4shfMBk5W9GdphVg5Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336525635495-mbcs2kb7httdj4uoiaer270d7oaasjs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336525635495-mjttup355ctjfrjpt092666qj1959563.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "SamArtGS.Trazabilidad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -43,5 +43,9 @@
 	</array>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Noraml user it casi</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Para uso de la app</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Para uso de ala pppp</string>
 </dict>
 </plist>

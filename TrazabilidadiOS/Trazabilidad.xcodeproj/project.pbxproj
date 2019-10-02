@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1DDEBB2C4801952D969456FD /* Pods_Trazabilidad.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 647EC3E4352C3FED3076A357 /* Pods_Trazabilidad.framework */; };
 		31A5628649059901BE53671F /* Pods_TrazabilidadUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB71F4FED72D76BD33309DBE /* Pods_TrazabilidadUITests.framework */; };
+		54C40755233E5AF900BEDAD3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 54C40754233E5AF900BEDAD3 /* GoogleService-Info.plist */; };
 		54D664582339091800836325 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D664572339091800836325 /* AppDelegate.swift */; };
 		54D6645A2339091800836325 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D664592339091800836325 /* ViewController.swift */; };
 		54D6645D2339091800836325 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54D6645B2339091800836325 /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 		0AA62A2A60CE5AB354883A96 /* Pods_TrazabilidadTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TrazabilidadTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B2166519A08F78DCFA8D19C /* Pods-Trazabilidad.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Trazabilidad.release.xcconfig"; path = "Pods/Target Support Files/Pods-Trazabilidad/Pods-Trazabilidad.release.xcconfig"; sourceTree = "<group>"; };
 		4E626745C00EE657EEF5E3E2 /* Pods-Trazabilidad.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Trazabilidad.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Trazabilidad/Pods-Trazabilidad.debug.xcconfig"; sourceTree = "<group>"; };
+		54C40754233E5AF900BEDAD3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		54D664542339091800836325 /* Trazabilidad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trazabilidad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54D664572339091800836325 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54D664592339091800836325 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				54D6648723398F0700836325 /* Mapa.swift */,
 				54D6648923398F1500836325 /* Documentos.swift */,
 				54D6648B2339DC1400836325 /* style.json */,
+				54C40754233E5AF900BEDAD3 /* GoogleService-Info.plist */,
 				54D6645E2339091A00836325 /* Assets.xcassets */,
 				54D664602339091A00836325 /* LaunchScreen.storyboard */,
 				54D664632339091A00836325 /* Info.plist */,
@@ -288,6 +291,7 @@
 			files = (
 				54D664622339091A00836325 /* LaunchScreen.storyboard in Resources */,
 				54D6645F2339091A00836325 /* Assets.xcassets in Resources */,
+				54C40755233E5AF900BEDAD3 /* GoogleService-Info.plist in Resources */,
 				54D6645D2339091800836325 /* Main.storyboard in Resources */,
 				54D6648C2339DC1400836325 /* style.json in Resources */,
 			);
